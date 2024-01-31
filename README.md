@@ -23,7 +23,11 @@ Achieved an impressive accuracy of 85% with the deployed model, demonstrating it
 
 The project offers stakeholders valuable insights into Medicare fraud detection, contributing to improved healthcare fraud prevention efforts.
 
+Data set Link
+
 #### Further Insights
 Business Documentation: Detailed insights into the potential business impact of the fraud detection system, including cost savings, risk mitigation, and healthcare quality improvement.
 
 Technical Documentation: Comprehensive technical documentation covering the model development process, feature interpretation, and future directions for improvement.
+
+## Data set : https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis/code
